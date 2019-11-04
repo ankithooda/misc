@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.1.0",
+    "hermit": "^0.2.2",
     "request": "^2.88.0"
   }
 }
